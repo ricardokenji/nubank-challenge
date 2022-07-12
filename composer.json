@@ -1,0 +1,18 @@
+{
+    "name": "ricardokenjitanaka/nubank",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nubank\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenji",
+            "email": "ricardokenjit@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
